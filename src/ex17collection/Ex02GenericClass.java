@@ -42,7 +42,7 @@ class FruitBox{
 	인스턴스 생성시 자료형을 결정하기 위해 클래스명<T> 형태로
 	변경한다.
 */
-
+ 
 //제네릭 클래스 정의
 class GenericFruitBox<T>{
 	T item;
