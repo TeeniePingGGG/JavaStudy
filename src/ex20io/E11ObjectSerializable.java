@@ -75,7 +75,7 @@ public class E11ObjectSerializable {
 			c2.showCircleInfo();
 			/*
 			 기본클래스는 이미 toString이 오버라이딩 되어있으므로
-			 즉시 출력할 수 있다.
+			 즉시 출력할 수 있다. 
 			 */
 			System.out.println("String오브젝트:"+message);
 					
